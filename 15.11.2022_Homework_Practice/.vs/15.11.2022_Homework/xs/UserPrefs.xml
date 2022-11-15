@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{A4D9DC49-85BB-4C4D-95AD-3EC20C73FA8A}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="15.11.2022_Homework/Startup.cs">
+    <Files>
+      <File FileName="15.11.2022_Homework/Views/Home/Index.cshtml" />
+      <File FileName="15.11.2022_Homework/Controllers/HomeController.cs" />
+      <File FileName="15.11.2022_Homework/Startup.cs" Line="39" Column="1" />
+      <File FileName="15.11.2022_Homework/Program.cs" />
+      <File FileName="15.11.2022_Homework/Views/Home/About.cshtml" />
+      <File FileName="15.11.2022_Homework/Views/Shared/_Layout.cshtml" />
+      <File FileName="15.11.2022_Homework/Views/Home/Contact.cshtml" />
+      <File FileName="15.11.2022_Homework/Views/Home/Detail.cshtml" Line="11" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="15.11.2022_Homework" expanded="True">
+            <Node name="15.11.2022_Homework" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.15.11.2022__Homework PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+</Properties>
